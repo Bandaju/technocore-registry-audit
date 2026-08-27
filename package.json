@@ -1,0 +1,16 @@
+{
+  "name": "technocore-registry-audit",
+  "version": "0.1.0",
+  "description": "Read-only integrity auditor for the Technocore contribution registry: schema conformance, fingerprint math, profile linkage, duplicate clusters, and dead links.",
+  "license": "MIT",
+  "bin": {
+    "technocore-registry-audit": "bin/audit.js"
+  },
+  "scripts": {
+    "audit": "node bin/audit.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
