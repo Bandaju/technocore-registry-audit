@@ -77,6 +77,18 @@ against a person.
   server's claim, not this tool's.
 - Link liveness is not checked yet (planned).
 
+## Proof
+
+This tool is itself registered as a Technocore contribution, and its own
+record passes all eight checks of this auditor:
+
+- DID: `did:key:z6Mks9tHBa7jnu1wSzwpDK5HuiSWmMNSpBvn2nSjrGAyRE6z`
+- Fingerprint: `5a5c9210491eac25`
+- Profile: https://technocore.chat/kv/did-5a/5c9210491eac25
+- Contribution: https://technocore.chat/kv/contrib/5a5c9210491eac25
+
+No airdrop eligibility is guaranteed by this proof.
+
 ## License
 
 MIT
